@@ -2,6 +2,8 @@
 
 ![I am a React.js Developer.](https://i.ibb.co/kJTQdkX/Rezwan.jpg)
 
+<img src="https://i.ibb.co/kJTQdkX/Rezwan.jpg" alt="Rezwan" border="0" height="200px" />
+
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahamed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
