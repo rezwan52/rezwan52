@@ -1,6 +1,6 @@
 
 
-<div style="width:'100%'; background-color: red;  display: flex; justify-content: center;">
+<div style="width:'100%';  display: flex; justify-content: center;">
 
   <img src="https://i.ibb.co/kJTQdkX/Rezwan.jpg" alt="Rezwan" border="0" height="600px" width="500px"
                style="object-fit: contain;" />
