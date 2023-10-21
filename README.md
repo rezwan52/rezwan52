@@ -1,5 +1,5 @@
 <h1 align="center">Hello...👋<br>
-  I'm Rezwan Ahamed</h1>
+  I'm Rezwan Ahmed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
 
 - 🌱 I’m currently learning **Algorithms and Database**
