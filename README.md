@@ -1,5 +1,8 @@
 ![App Screenshot](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/324719410_567419375203180_4106101536842862605_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGg_Sb_xaaJ4j2EY2TxO4qD9aje1ihyd6f1qN7WKHJ3p_f6-nq8DaYEZDMs0sND7oXDkUCz8tK8UZXwQNKamuno&_nc_ohc=re6sgyoepH0AX_RJIzh&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBH2SJleG5OrzgynsPlaClCEAz07-5ioBQahs0ia5mG9Q&oe=6539557E)
 
+
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/324719410_567419375203180_4106101536842862605_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGg_Sb_xaaJ4j2EY2TxO4qD9aje1ihyd6f1qN7WKHJ3p_f6-nq8DaYEZDMs0sND7oXDkUCz8tK8UZXwQNKamuno&_nc_ohc=re6sgyoepH0AX_RJIzh&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBH2SJleG5OrzgynsPlaClCEAz07-5ioBQahs0ia5mG9Q&oe=6539557E)" alt="java" width="40" height="40"/>
+
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahamed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
