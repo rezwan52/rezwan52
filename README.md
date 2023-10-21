@@ -1,6 +1,6 @@
 ![App Screenshot](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/376879345_2419008531593784_1186205646763136598_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEB1xHvK9UtfZKyeZqFDP_nKjKN8_1jfgUqMo3z_WN-BYXaS7Vx-eHZGEHNPFXu-rxLzv7RqhAy79QBgPIp4yAE&_nc_ohc=zMaasjmtcIAAX8NL91s&_nc_ht=scontent.fdac138-2.fna&oh=00_AfAwGEGRFJy9l0P1tq4vTt1oU765UUg1tj1U9tlpp8dF8g&oe=6538D92F)
 
-<h1 align="center">Hi 👋
+<h1 align="center">Hi 👋<br>
   I'm Rezwan Ahamed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
 
