@@ -2,7 +2,7 @@
 
 ![I am a React.js Developer.](https://i.ibb.co/kJTQdkX/Rezwan.jpg)
 
-<img src="https://i.ibb.co/kJTQdkX/Rezwan.jpg" alt="Rezwan" border="0" height="600px" width="100%" style='object-fit:contain' />
+<img src="https://i.ibb.co/kJTQdkX/Rezwan.jpg" alt="Rezwan" border="0" height="600px" width="100%" style='object-fit:cover' />
 
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahamed</h1>
