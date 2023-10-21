@@ -1,6 +1,6 @@
 
 
-<div style="width:'100%'; text-align: center;"> <img src="https://i.ibb.co/kJTQdkX/Rezwan.jpg" alt="Rezwan" border="0" height="600px" width="auto" style="object-fit: contain;" /> </div>
+<div style="width:'100%'; background-color: red;  text-align: center;"> <img src="https://i.ibb.co/kJTQdkX/Rezwan.jpg" alt="Rezwan" border="0" height="600px" width="auto" style="object-fit: contain;" /> </div>
 
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahamed</h1>
