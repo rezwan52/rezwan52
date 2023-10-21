@@ -1,12 +1,3 @@
-
-
-<div style="width:'100%';  display: flex; justify-content: center;">
-
-  <img src="https://i.ibb.co/kJTQdkX/Rezwan.jpg" alt="Rezwan" border="0" height="600px" width="500px"
-               style="object-fit: contain;" />
-
-  </div>
-
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahamed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
@@ -27,11 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rezwan52&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezwan52&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwan52&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=rezwan52&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rezwan52&icon=0&color=0)](https://visitcount.itsvg.in)
