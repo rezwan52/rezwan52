@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rezwan Ahamed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezwan52&label=Profile%20views&color=0e75b6&style=flat" alt="rezwan52" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezwan52" alt="rezwan52" /></a> </p>
-
 - 🌱 I’m currently learning **Algorithms and Database**
 
 - 📫 How to reach me **21201052@uap-bd.edu**
