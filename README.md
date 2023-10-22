@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/W6GFV4j/LMC-20230803-141751-i-Phone-14-Ultra-Pixel-01-01.jpg" alt="LMC-20230803-141751-i-Phone-14-Ultra-Pixel-01-01" border="0" />
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+<img src="https://i.ibb.co/W6GFV4j/LMC-20230803-141751-i-Phone-14-Ultra-Pixel-01-01.jpg" alt="blender" width="40" height="40"/>
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahmed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
