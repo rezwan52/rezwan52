@@ -1,6 +1,3 @@
-<div style="text-align: center;"> <img src="https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/371135656_2397143807113590_7343307404158150413_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHVlNyiECCZH1uSk3j7gwtIlU9nCcASTnKVT2cJwBJOcovqro8280KMzYLW-3MRpk7vD70p2RJIGtr9ySScZL7j&_nc_ohc=2dKX8OCdQfgAX-vzBY4&_nc_ht=scontent.fdac138-2.fna&oh=00_AfBJJFYCOPl6ZF4GmOnj9U-mWrqvlsttbmzo5rDLDEr9nQ&oe=6539B255" alt="Rezwan" border="0" height="600px" width="auto" style="object-fit: contain;" /> </div>
-
-
 <div style="text-align: center;"> <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t1.6435-9/121535190_1599886670172645_5638763320754674340_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeF1n0rwKMw_mIfWLLkcCRv26Sl11gGmcF7pKXXWAaZwXvEXMw5AET80-u7zeZ6t_RDa5DGbWS37Ohp0jugAv5kj&_nc_ohc=TfZLElIJ3WsAX-dQNpB&_nc_ht=scontent.fdac138-1.fna&oh=00_AfCiSA9IkgYMdHqmytwbuv0V5S_ZgkjHCBEc6FUEOaEb-Q&oe=655CEC8C" alt="Rezwan" border="0" height="600px" width="auto" style="object-fit: contain;" /> </div>
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahmed</h1>
