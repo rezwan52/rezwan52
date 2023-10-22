@@ -1,4 +1,4 @@
-<div style="text-align: center;"> <img src="https://i.ibb.co/x1Dhz0k/Rezwan.jpg" alt="Rezwan" border="0" height="600px" width="auto" style="object-fit: contain;" /> </div>
+<div style="text-align: center;"> <img src="https://i.ibb.co/cvQkxnh/IMG-20210314-163551.jpg" alt="Rezwan" border="0" height="600px" width="auto" style="object-fit: contain;" /> </div>
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahmed</h1>
 <h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
