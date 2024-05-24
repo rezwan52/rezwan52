@@ -1,7 +1,7 @@
 <div style="text-align: center;"> <img src="https://scontent.fdac155-1.fna.fbcdn.net/v/t31.18172-8/14939387_646405622187426_8556753779221009558_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2be8e3&_nc_eui2=AeHphJXD_pY12LkNKgF44QBFUtuidAIHS51S26J0AgdLnY-ahdCdu3QqjGX0mZcVwIpp7RMrpf_y44QPde4WnXCA&_nc_ohc=CmxBr1RXOtAAX-g3nT3&_nc_ht=scontent.fdac155-1.fna&oh=00_AfDR5vT8wguNPydUnFcn2cGNnKJeydfzkAB5GNaQA6MY6A&oe=65D570B4" alt="Rezwan" border="0" height="600px" width="auto" style="object-fit: contain;" /> </div>
 <h1 align="center">Hello...👋<br>
   I'm Rezwan Ahmed</h1>
-<h3 align="center">A passionate Programmer and Computer Science Engineer.</h3>
+<h3 align="center">A passionate Programmer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **Algorithms and Database**
 
