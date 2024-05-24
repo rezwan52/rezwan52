@@ -3,7 +3,7 @@
   I'm Rezwan Ahmed</h1>
 <h3 align="center">A passionate Programmer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **Algorithms and Database**
+- 🌱 I’m currently learning **Python,Django-Framework**
 
 - 📫 How to reach me **21201052@uap-bd.edu**
 
